@@ -17,12 +17,22 @@
         window.$docsify = {
                   name: 'studio pond\nknowledge',
                   repo: 'Studio-Pond/knowledge',
-                  loadSidebar: '_sidebar.md',
+                  loadSidebar: true,
                   themeColor: '#1495ED', 
                   formatUpdated: '{DD}.{MM}.{YYYY}   {HH}:{mm}',
 
 
                   subMaxLevel: 4
+                  search: {
+                  // insertAfter: '.app-name',
+                  // insertBefore: '.sidebar-nav',
+                    noData: 
+                      '/': 'No results!',
+                  },
+                  paths: 'auto',
+                  placeholder: {
+                  '/': 'Search',
+                  },
                 }
       </script>  <!-- Docsify v4 -->
       <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
