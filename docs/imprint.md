@@ -10,7 +10,6 @@ R111<br />
 Robin Godwyll</p>
 
 <h2>Kontakt</h2>
-<p>Telefon: &#91;Telefonnummer&#93;<br />
 E-Mail: hello@studiopond.de</p>
 
 <h2>Redaktionell verantwortlich</h2>
