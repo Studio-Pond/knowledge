@@ -2,10 +2,10 @@
 * Robotics
 * Software
 
-  ----------------------------------------
-- Archive
+* Archive
 
-* Legal
+  ----------------------------------------
+  
 - [imprint / impressum](imprint.md)
 - [privacy policy](privacy.md)
 - [contact](contact.md)
