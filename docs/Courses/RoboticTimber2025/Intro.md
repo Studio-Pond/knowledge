@@ -15,13 +15,22 @@ ___
 
 ## Machine Tending 
 <details>
-<summary>Self-assessment (Click to expand)</summary>
+<summary>Automated Machine Tending using a Universal UR5e cobot</summary>
 
 <iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/35KhfiAmE4o?si=VB1Y29ByTPzpdEWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
-[ProCobot Machine Tending](https://www.youtube.com/watch?v=9nacz_u8J4A)
-[RoboTrex Machine Tending Solution](https://www.youtube.com/watch?v=K3BGOQ_TLp8)
+<details>
+<summary>ProCobots: Machine Tending</summary>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9nacz_u8J4A?si=Y8Vc80U5cOuC5Nvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+<details>
+<summary>RoboTrex Machine Tending Solution</summary>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K3BGOQ_TLp8?si=NdMhO7ZVDSVUHJJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
 
 ## Inspection and Testing
 
