@@ -113,7 +113,7 @@ ________
 <details>
 <summary>Rock Print Pavillion - Gramazio Kohler Research </summary>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ss0buEJgRlc?si=yQBGy5cy4mRTjFAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[!](https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/265/181016_265_RockPrintPavilion_Aerni_03_WM.jpg)
+![RockPrint](https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/265/181016_265_RockPrintPavilion_Aerni_03_WM.jpg)
 [Rock Print Pavillion](https://gramaziokohler.arch.ethz.ch/web/e/projekte/364.html)
 </details>
 
