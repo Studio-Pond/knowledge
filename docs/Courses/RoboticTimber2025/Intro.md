@@ -2,9 +2,28 @@ Intro.md
 <details>
 <summary> </summary>
 </details>
-___
+
+---
 
 # Robots ?
+
+<details>
+<summary>Different Kind of "Robots"</summary>
+
+| <img src="gallery/edo.png" alt="eDO" width=100> | <img src="gallery/ur5.png" alt="UR5" width=100> | <img src="gallery/gen2.png" alt="Gen2" width=100> | <img src="gallery/iiwa.png" alt="iiwa 14" width=100> | <img src="gallery/panda.png" alt="Panda" width=100> |
+|--|--|--|--|--|
+| <img src="gallery/baxter.png" alt="Baxter" width=100> | <img src="gallery/nextage.png" alt="NEXTAGE" width=100> | <img src="gallery/poppy_torso.png" alt="Poppy Torso" width=100> | <img src="gallery/yumi.png" alt="YuMi" width=100> | <img src="gallery/poppy_ergo_jr.png" alt="Poppy Ergo Jr" width=100> |
+| <img src="gallery/bolt.png" alt="Bolt" width=100> | <img src="gallery/cassie.png" alt="Cassie" width=100> | <img src="gallery/upkie.png" alt="Upkie" width=100> | <img src="gallery/spryped.png" alt="Spryped" width=100> | <img src="gallery/rhea.png" alt="Rhea" width=100> |
+| <img src="gallery/allegro_hand.png" alt="Allegro Hand" width=100> | <img src="gallery/barrett_hand.png" alt="BarrettHand" width=100> | <img src="gallery/robotiq_2f85.png" alt="Robotiq 2F-85" width=100> | <img src="gallery/cf2.png" alt="Crazyflie 2.0" width=100> | <img src="gallery/finger_edu.png" alt="FingerEdu" width=100> |
+| <img src="gallery/eve_r3.png" alt="Eve R3" width=100> | <img src="gallery/fetch.png" alt="Fetch" width=100> | <img src="gallery/pepper.png" alt="Pepper" width=100> | <img src="gallery/reachy.png" alt="Reachy" width=100> | <img src="gallery/berkeley_humanoid.png" alt="Berkeley Humanoid" width=100> |
+| <img src="gallery/atlas_drc.png" alt="Atlas DRC (v3)" width=100> | <img src="gallery/atlas_v4.png" alt="Atlas v4" width=100> | <img src="gallery/jvrc1.png" alt="JVRC-1" width=100> | <img src="gallery/r2.png" alt="Robonaut 2" width=100> | <img src="gallery/romeo.png" alt="Romeo" width=100> |
+| <img src="gallery/icub.png" alt="iCub" width=100> | <img src="gallery/draco3.png" alt="Draco3" width=100> | <img src="gallery/valkyrie.png" alt="Valkyrie" width=100> | <img src="gallery/jaxon.png" alt="JAXON" width=100> | <img src="gallery/sigmaban.png" alt="SigmaBan" width=100> |
+| <img src="gallery/a1.png" alt="A1" width=100> | <img src="gallery/anymal_b.png" alt="ANYmal B" width=100> | <img src="gallery/anymal_c.png" alt="ANYmal C" width=100> | <img src="gallery/mini_cheetah.png" alt="Mini Cheetah" width=100> | <img src="gallery/solo.png" alt="Solo" width=100> |
+| <img src="gallery/rsk.png" alt="Robot Soccer Kit" width=100> | <img src="gallery/med7.png" alt="Med 7" width=100> | <img src="gallery/med14.png" alt="Med 14" width=100> | <img src="gallery/elf2.png" alt="Med 14" width=100> | <img src="gallery/rb-robout.png" alt="Med 14" width=100> |
+| <img src="gallery/rb-kairos.png" alt="Med 14" width=100> | <img src="gallery/rb-summit-xl.png" alt="Med 14" width=100> | <img src="gallery/rb-theron.png" alt="Med 14" width=100> | <img src="gallery/rb-vogui.png" alt="Med 14" width=100> | <img src="gallery/rb-kairos-plus.png" alt="Med 14" width=100> |
+| <img src="gallery/rb-robout-plus.png" alt="Med 14" width=100> | <img src="gallery/rb-vogui-plus.png" alt="Med 14" width=100> |
+
+</details>
 
 # Robotics in Manufacturing and Industry
 
@@ -84,7 +103,9 @@ ___
 <summary>Raise Robotics Construction Robots for Hard to reach Places </summary>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dqbuxnpJaa0?si=2raTQvdkDP3i4Y6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
-________
+
+
+---
 
 # Robots in Architecture, Design and Art
 
@@ -113,7 +134,7 @@ ________
 <details>
 <summary>Rock Print Pavillion - Gramazio Kohler Research </summary>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ss0buEJgRlc?si=yQBGy5cy4mRTjFAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![RockPrint](https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/265/181016_265_RockPrintPavilion_Aerni_03_WM.jpg)
+<img title="a title" alt="Alt text" src="https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/265/181016_265_RockPrintPavilion_Aerni_03_WM.jpg">
 [Rock Print Pavillion](https://gramaziokohler.arch.ethz.ch/web/e/projekte/364.html)
 </details>
 
@@ -131,6 +152,16 @@ ________
 <summary>Uni Kassel - HOME </summary>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5p1S2ZjDZSE?si=boXpV5ASZuojxIB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Forschungsprojekte der Uni Kassel im Fachbereich Experimentelles und Digitales Entwerfen](https://www.uni-kassel.de/fb06/architektur-1/fachgebiete/experimentelles-und-digitales-entwerfen-und-konstruieren/forschung/abgeschlossene-forschungsprojekte)
+</details>
+
+<details>
+<summary>Vertico Concrete 3D Printing</summary>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aSDcKmfkPHc?si=51gKADiCoBr0T4QK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+<details>
+<summary>KUKA COncrete Printing Commercial Architecture</summary>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e4OfZzy3lmQ?si=kYkUQR9o6TP7AzYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Subtractive Processes
@@ -175,13 +206,11 @@ ________
 </details>
 
 <details>
-<summary></summary>
+<summary>Design and assembly of lightweight metal structures - Gramazio Kohler Research</summary>
 <img title="a title" alt="Alt text" src="https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/188/160922_188_BuildupPrototype_MP_01_WM.jpg">
 <img title="a title" alt="Alt text" src="https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/188/160922_188_Welding_MP_01_WM.jpg">
 <img title="a title" alt="Alt text" src="https://www.dfab.arch.ethz.ch/data/ProjectImages/02_Web/M/188/181128_188_LightWeightMetalStructures_03_WM.jpg">
 </details>
-
-## Performance and Interaction
 
 <details>
 <summary></summary>
