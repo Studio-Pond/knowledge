@@ -11,14 +11,25 @@ ___
 
 ## Welding + Assembly 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g3RxpoQ-KO4?si=BXOFMk0QvJHIUxQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="400" src="https://www.youtube-nocookie.com/embed/g3RxpoQ-KO4?si=BXOFMk0QvJHIUxQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Machine Tending 
+
+<iframe width="560" height="400" src="https://www.youtube-nocookie.com/embed/35KhfiAmE4o?si=VB1Y29ByTPzpdEWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[ProCobot Machine Tending](https://www.youtube.com/watch?v=9nacz_u8J4A)
+[RoboTrex Machine Tending Solution](https://www.youtube.com/watch?v=K3BGOQ_TLp8)
+
 ## Inspection and Testing
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eMsUn-x8f7Y?si=1oA1F649p30j4K8P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Sojka - Roboter Inspektion von Wärmepumpen Bauteilen](https://www.youtube.com/watch?v=ATpLyt69YFQ)
-## 
+
+ 
 ## Disassembly and Repair 
+
+___
 
 # Robotics in Architecture, Design and Art 
 
