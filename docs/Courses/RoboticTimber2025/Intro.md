@@ -169,6 +169,18 @@ ________
 </details>
 
 ## Molding and Assembly
+<details>
+<summary>Fabric-cast concrete</summary>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tuQ1u_23UQE?si=bLFksgv1H1C1NDZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+<details>
+<summary></summary>
+<img title="a title" alt="Alt text" src="https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/188/160922_188_BuildupPrototype_MP_01_WM.jpg">
+<img title="a title" alt="Alt text" src="https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/188/160922_188_Welding_MP_01_WM.jpg">
+<img title="a title" alt="Alt text" src="https://www.dfab.arch.ethz.ch/data/ProjectImages/02_Web/M/188/181128_188_LightWeightMetalStructures_03_WM.jpg">
+</details>
+
 ## Performance and Interaction
 
 <details>
