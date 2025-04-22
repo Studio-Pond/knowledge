@@ -1,14 +1,10 @@
-Intro.md
-<details>
-<summary> </summary>
-</details>
 
 ---
 
 # Robots ?
 
 <details>
-<summary>Different Kind of "Robots"</summary>
+<summary>Different Kinds of "Robots"</summary>
 
 | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/edo.png?raw=true" alt="eDO" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/ur5.png?raw=true" alt="UR5" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/gen2.png?raw=true" alt="Gen2" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/iiwa.png?raw=true" alt="iiwa 14" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/panda.png?raw=true" alt="Panda" width=100> |
 |--|--|--|--|--|
@@ -23,9 +19,10 @@ Intro.md
 | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/rb-kairos.png?raw=true" alt="Med 14" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/rb-summit-xl.png?raw=true" alt="Med 14" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/rb-theron.png?raw=true" alt="Med 14" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/rb-vogui.png?raw=true" alt="Med 14" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/rb-kairos-plus.png?raw=true" alt="Med 14" width=100> |
 | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/rb-robout-plus.png?raw=true" alt="Med 14" width=100> | <img src="https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/rb-vogui-plus.png?raw=true" alt="Med 14" width=100> |
 
-https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/gallery/allegro_hand.png?raw=true
+Source: [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions/)
 </details>
 
+---
 
 # Robotics in Manufacturing and Industry
 
@@ -214,6 +211,8 @@ https://github.com/robot-descriptions/awesome-robot-descriptions/blob/main/galle
 <img title="a title" alt="Alt text" src="https://www.dfab.arch.ethz.ch/data/ProjectImages/02_Web/M/188/181128_188_LightWeightMetalStructures_03_WM.jpg">
 </details>
 
+
+---
 <details>
 <summary></summary>
 </details>
