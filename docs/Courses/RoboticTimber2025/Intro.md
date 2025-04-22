@@ -35,12 +35,12 @@ Source: [robot-descriptions/awesome-robot-descriptions](https://github.com/robot
 ## Palletizing
 <details>
 <summary>Cobot Palletizing </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ko4w3VA5fH8?si=izsz8rrum4PPGBWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/Ko4w3VA5fH8?si=izsz8rrum4PPGBWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Kuka Robot Palletizing </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ggtZdRxqbXQ?si=W5aTtgw9w3jgu7y7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/ggtZdRxqbXQ?si=W5aTtgw9w3jgu7y7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Machine Tending
@@ -54,12 +54,12 @@ Source: [robot-descriptions/awesome-robot-descriptions](https://github.com/robot
 <details>
 <summary>ProCobots: CNC Machine Tending</summary>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9nacz_u8J4A?si=Y8Vc80U5cOuC5Nvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/9nacz_u8J4A?si=Y8Vc80U5cOuC5Nvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>RoboTrex Machine Tending Solution</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K3BGOQ_TLp8?si=NdMhO7ZVDSVUHJJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/K3BGOQ_TLp8?si=NdMhO7ZVDSVUHJJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Inspection and Testing
@@ -70,37 +70,37 @@ Source: [robot-descriptions/awesome-robot-descriptions](https://github.com/robot
 
 <details>
 <summary>Sojka - Roboter Inspektion von Wärmepumpen Bauteilen</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ATpLyt69YFQ?si=5LqboldkfBmrMzkx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/ATpLyt69YFQ?si=5LqboldkfBmrMzkx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 
 <details>
 <summary>3D Infotech: Robotic Inspection with Machine Vision (Cognex) </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B0yxYFJId0M?si=5qAS38SvkXJ_u2kV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/B0yxYFJId0M?si=5qAS38SvkXJ_u2kV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Disassembly and Repair
 
 <details>
 <summary>Apple Liam Iphone Disassembly Robot </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Tq9GDzObAHI?si=wGVc4u53iiXWH3DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/Tq9GDzObAHI?si=wGVc4u53iiXWH3DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Ergonomics and Safety 
 
 <details>
 <summary>Rope Robotics Wind Blade Repair </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EOINRWXJngU?si=kKp5ihKV-GI4Xg1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/EOINRWXJngU?si=kKp5ihKV-GI4Xg1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Overhead Ceiling Painting Robot </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2Js4TSef-yc?si=K5ybp0T3rZGoYsdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/2Js4TSef-yc?si=K5ybp0T3rZGoYsdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Raise Robotics Construction Robots for Hard to reach Places </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dqbuxnpJaa0?si=2raTQvdkDP3i4Y6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/dqbuxnpJaa0?si=2raTQvdkDP3i4Y6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 
@@ -112,67 +112,67 @@ Source: [robot-descriptions/awesome-robot-descriptions](https://github.com/robot
 
 <details>
 <summary>Puddle Chair 3D Print - AiBuild for ZHcode </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AWp420qS8Qk?si=K03ivbY8ugTB59Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/AWp420qS8Qk?si=K03ivbY8ugTB59Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>6-Axis FDM 3D Printing (Massive Dimension) </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vEIw43TD-8s?si=3xIaGpk15T-tUsNu&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/vEIw43TD-8s?si=3xIaGpk15T-tUsNu&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>MX3D 3D Printed Bridge </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/STAHy6hTP14?si=wdHox8juQRo8TcDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/STAHy6hTP14?si=wdHox8juQRo8TcDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Oxman O° Shoe Printing </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GNJrhHoAtk8?si=oPEXjODlBxX0auF7&amp;start=114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/GNJrhHoAtk8?si=oPEXjODlBxX0auF7&amp;start=114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Rock Print Pavillion - Gramazio Kohler Research </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ss0buEJgRlc?si=yQBGy5cy4mRTjFAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/Ss0buEJgRlc?si=yQBGy5cy4mRTjFAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img title="a title" alt="Alt text" src="https://gramaziokohler.arch.ethz.ch/data/ProjectImages/02_Web/M/265/181016_265_RockPrintPavilion_Aerni_03_WM.jpg">
 [Rock Print Pavillion](https://gramaziokohler.arch.ethz.ch/web/e/projekte/364.html)
 </details>
 
 <details>
 <summary>Remote Material Deposition - Gramazio Kohler Research </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_gTFOj8YnVs?si=Br3yf7QCc1WWvg6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/_gTFOj8YnVs?si=Br3yf7QCc1WWvg6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Fibre Winding - Hannah Arkell </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-gUEix2kByk?si=csoO2I_f-MmqFYTQ&amp;start=120" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/-gUEix2kByk?si=csoO2I_f-MmqFYTQ&amp;start=120" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Uni Kassel - HOME </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5p1S2ZjDZSE?si=boXpV5ASZuojxIB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/5p1S2ZjDZSE?si=boXpV5ASZuojxIB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Forschungsprojekte der Uni Kassel im Fachbereich Experimentelles und Digitales Entwerfen](https://www.uni-kassel.de/fb06/architektur-1/fachgebiete/experimentelles-und-digitales-entwerfen-und-konstruieren/forschung/abgeschlossene-forschungsprojekte)
 </details>
 
 <details>
 <summary>Vertico Concrete 3D Printing</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aSDcKmfkPHc?si=51gKADiCoBr0T4QK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/aSDcKmfkPHc?si=51gKADiCoBr0T4QK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>KUKA COncrete Printing Commercial Architecture</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e4OfZzy3lmQ?si=kYkUQR9o6TP7AzYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/e4OfZzy3lmQ?si=kYkUQR9o6TP7AzYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Subtractive Processes
 
 <details>
 <summary>Robotic Wood Milling - N1 Robot </summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n0wSp0638bU?si=Zp3B4BW3oVJgKeFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/n0wSp0638bU?si=Zp3B4BW3oVJgKeFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Robotic Wire Cutting and Foam Milling - Special Patterns</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hw2vjX39Qwc?si=V7ed9foy3eFNFE_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/hw2vjX39Qwc?si=V7ed9foy3eFNFE_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -190,18 +190,18 @@ Source: [robot-descriptions/awesome-robot-descriptions](https://github.com/robot
 
 <details>
 <summary>Wakefield Library Skeleton - Hooke Park</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K67g8tJtlLg?si=m35ZWeh38e8rctiO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/K67g8tJtlLg?si=m35ZWeh38e8rctiO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Wood Chip Barn - Hooke Park</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hyrh2zmkdg0?si=b_RUfUiRHyO-AWTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/Hyrh2zmkdg0?si=b_RUfUiRHyO-AWTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Molding and Assembly
 <details>
 <summary>Fabric-cast concrete</summary>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tuQ1u_23UQE?si=bLFksgv1H1C1NDZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube-nocookie.com/embed/tuQ1u_23UQE?si=bLFksgv1H1C1NDZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
