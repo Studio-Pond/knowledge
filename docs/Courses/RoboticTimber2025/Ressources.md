@@ -1,5 +1,5 @@
 # Ressources
 
-[Grasshopper Intro Video Tutorials](Courses/RoboticTimber/GrasshopperIntro.md)
+[Grasshopper Intro Video Tutorials](Courses/RoboticTimber2025/GrasshopperIntro.md)
 
-[Robots Plugin Intro Video Tutorials](Courses/RoboticTImber/RobotsIntro.md)
+[Robots Plugin Intro Video Tutorials](Courses/RoboticTimber2025/RobotsIntro.md)
