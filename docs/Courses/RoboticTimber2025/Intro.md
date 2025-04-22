@@ -213,6 +213,3 @@ Source: [robot-descriptions/awesome-robot-descriptions](https://github.com/robot
 
 
 ---
-<details>
-<summary></summary>
-</details>

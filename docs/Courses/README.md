@@ -1,3 +1,3 @@
 # Courses
 
-[Robotic Timber 2025](Courses/RoboticTimber2025)
+[Robotic Timber 2025](Courses/RoboticTimber2025/)
