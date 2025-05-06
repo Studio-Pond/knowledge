@@ -28,7 +28,7 @@
 
 ## Arbeiten mit dem Robot Program Template
 
-Link zum Template Download:
-[_Google Drive: RobotProgramTemplate.gh](https://drive.google.com/open?id=1Qe0O8sHupKajERqh5FuaJeAeGAup07PJ&usp=drive_fs)
+Neuer Link zum Template Download:
+[Google Drive: RobotProgramTemplate.gh](https://drive.google.com/drive/folders/1NzpOXScPj84ESGicXBNdGTz60iTtsmBz)
 
 
